@@ -16,7 +16,7 @@ const aboutData = {
     ],
     training: [
         {
-            title: "Full-Stack Web Development",
+            title: "Mern-Stack Web Development",
             institution: "Programming Hero",
             year: "Jul 2025 – Dec 2025",
             duration: "6 Months",
@@ -114,7 +114,7 @@ const About = () => {
                                 </div>
                                 <div className="w-px h-12 bg-slate-800" />
                                 <div className="text-center">
-                                    <h4 className="text-3xl font-black text-white">1k+</h4>
+                                    <h4 className="text-3xl font-black text-white">400+</h4>
                                     <p className="text-xs text-slate-500 uppercase font-bold tracking-widest">Coding Hours</p>
                                 </div>
                             </div>
