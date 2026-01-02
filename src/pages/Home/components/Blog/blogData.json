@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Optimizing Django ORM Queries for High Performance",
+    "excerpt": "Database hits can kill your app's performance. Learn how to use select_related and prefetch_related to optimize your Django APIs.",
+    "date": "Oct 12, 2024",
+    "readTime": "5 min read",
+    "category": "Backend",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop",
+    "link": "https://www.linkedin.com/posts/ramim-ahmed_cplusplus-algorithms-optimization-activity-7391500586267009024-uZ8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGl9uQBU2xZSsrnQALuK9wwNqlfFwvFxuQ",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "A Beginner's Guide to Dynamic Programming",
+    "excerpt": "Struggling with DP? I break down the core concepts of memoization and tabulation with the classic Knapsack problem.",
+    "date": "Sep 28, 2024",
+    "readTime": "8 min read",
+    "category": "Algorithms",
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Deploying Machine Learning Models with FastAPI",
+    "excerpt": "Bridging the gap between Data Science and Web Dev. A step-by-step guide to serving your Scikit-learn models via API.",
+    "date": "Nov 05, 2024",
+    "readTime": "6 min read",
+    "category": "AI / ML",
+    "image": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  }
+  ,
+  {
+    "id": 4,
+    "title": "Understanding REST API Best Practices",
+    "excerpt": "A comprehensive guide to designing RESTful APIs that are intuitive, scalable, and developer-friendly.",
+    "date": "Nov 18, 2024",
+    "readTime": "7 min read",
+    "category": "Backend",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Mastering Graph Algorithms",
+    "excerpt": "From BFS and DFS to Dijkstra's algorithm - a complete guide to solving graph problems in competitive programming.",
+    "date": "Dec 03, 2024",
+    "readTime": "10 min read",
+    "category": "Algorithms",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Building Real-time Applications with WebSockets",
+    "excerpt": "Learn how to implement bi-directional communication between client and server for real-time features.",
+    "date": "Dec 15, 2024",
+    "readTime": "9 min read",
+    "category": "Backend",
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Introduction to Neural Networks",
+    "excerpt": "Demystifying deep learning by building a neural network from scratch using only NumPy.",
+    "date": "Dec 20, 2024",
+    "readTime": "12 min read",
+    "category": "AI / ML",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Docker for Python Developers",
+    "excerpt": "Containerize your Python applications with Docker and Docker Compose for consistent development environments.",
+    "date": "Dec 22, 2024",
+    "readTime": "8 min read",
+    "category": "Backend",
+    "image": "https://images.unsplash.com/photo-1605745341112-85968b19335b?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Solving the Two Pointer Pattern",
+    "excerpt": "Master one of the most useful patterns in coding interviews with practical examples and problem-solving strategies.",
+    "date": "Dec 25, 2024",
+    "readTime": "6 min read",
+    "category": "Algorithms",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1000&auto=format&fit=crop",
+    "link": "#",
+    "featured": false
+  }
+]

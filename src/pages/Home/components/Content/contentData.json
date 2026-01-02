@@ -1,0 +1,53 @@
+{
+  "categories": ["Latest", "Programming", "Database", "AI/ML"],
+  "playlists": [
+    {
+      "id": 1,
+      "title": "Data Structure",
+      "playlistId": "PL9P7ljTbmNa3_zkGBGDi0Um1KkiJeYpi5",
+      "tags": ["Latest", "Programming"],
+      "videoCount": 9,
+      "description": "Complete guide to data structures including arrays, linked lists, trees, graphs and more"
+    },
+    {
+      "id": 2,
+      "title": "C Programming Beginners",
+      "playlistId": "PL9P7ljTbmNa2Zopsl-3vrWeBYs6jlqivZ",
+      "tags": ["Latest", "Programming"],
+      "videoCount": 10,
+      "description": "Learn C programming from scratch with hands-on examples and projects"
+    },
+    {
+      "id": 3,
+      "title": "Database Management System",
+      "playlistId": "PL9P7ljTbmNa3fg9upaWfPRNkEUjpLs3Cx",
+      "tags": ["Latest", "Database"],
+      "videoCount": 6,
+      "description": "Master DBMS concepts including SQL, normalization, transactions and database design"
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning",
+      "playlistId": "PL9P7ljTbmNa05Z-EBkPh3Iy13xIuL91UU",
+      "tags": ["Latest", "AI/ML"],
+      "videoCount": 2,
+      "description": "Comprehensive machine learning course covering algorithms, models and practical applications"
+    },
+    {
+      "id": 5,
+      "title": "Microprocessor",
+      "playlistId": "PL9P7ljTbmNa0C79omI6YGH1eMpuD5Eusi",
+      "tags": ["Programming"],
+      "videoCount": 7,
+      "description": "Understanding microprocessor architecture, assembly language and embedded systems"
+    },
+    {
+      "id": 6,
+      "title": "Statistics",
+      "playlistId": "PL9P7ljTbmNa2avvNlBsFmy_HWQYfmQMXn",
+      "tags": ["Latest", "AI/ML"],
+      "videoCount": 2,
+      "description": "Statistical concepts and methods for data analysis and machine learning"
+    }
+  ]
+}
