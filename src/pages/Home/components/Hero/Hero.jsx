@@ -19,7 +19,7 @@ const heroData = {
     github: "https://github.com/Tamim-real",
     linkedin: "https://www.linkedin.com/in/tamim-islaam/",
     email: "mailto:tamimislam2653@gmail.com",
-    youtube: "https://youtube.com/@codewithramuu",
+    
   },
 }
 
